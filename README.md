@@ -1,10 +1,9 @@
 # Task-2-MBC
 
 Membuat Program Sederhana Menggunakan Python
+1. Program Diskon
+2. Program Gaji
 
-Program Diskon
-Program Gaji
 Oleh:
-
-Alfarelzi
-Fahmi Agung Maulana
+1. Alfarelzi
+2. Fahmi Agung Maulana
