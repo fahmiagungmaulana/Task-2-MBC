@@ -6,4 +6,4 @@ Membuat Program Sederhana Menggunakan Python
 
 Oleh:
 1. Alfarelzi (1101210384)
-2. Fahmi Agung Maulana
+2. Fahmi Agung Maulana 
